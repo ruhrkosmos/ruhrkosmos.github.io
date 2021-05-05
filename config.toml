@@ -1,0 +1,18 @@
+baseURL = "https://ruhrkosmos.github.io/"
+languageCode = "de-de"
+title = "Ruhrkosmos"
+theme = "pickles"
+copyright = "&copy; Copyright notice"
+
+[params]
+  paginate = 10
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
