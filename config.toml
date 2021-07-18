@@ -1,4 +1,4 @@
-baseURL = "https://ruhrkosmos.org"
+baseURL = "https://ruhrkosmos.org/"
 languageCode = "de-de"
 title = "Ruhrkosmos"
 theme = "pickles"
